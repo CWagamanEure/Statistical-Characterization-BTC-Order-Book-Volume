@@ -1,4 +1,3 @@
-readme_content = """
 # Statistical Characterization of BTC Order Book Volume
 
 This project explores the statistical distribution of **ask-side order book volume** in the BTC/USD trading pair on Kraken. Specifically, it investigates whether **log-normal** or **normal** distributions best model the average ask volume at the top 10 levels of the order book.
@@ -60,4 +59,3 @@ Inspired by:
 ##  Author
 
 Built by Cory Wagaman-Eure. Reach out if you’re into market microstructure, reflexivity theory, or market-aware quant strategies.
-"""
